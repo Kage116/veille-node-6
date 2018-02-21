@@ -71,7 +71,8 @@ body table th a {
   color: #DCDCDC;
 }
 body table th a:hover {
-  font-weight: 700;
+  text-decoration: underline;
+  font-weight: 500;
 }
 body table #idDelete a {
   color: #FF0000;
@@ -107,14 +108,15 @@ footer li {
   font-size: 20px;
   font-weight: 400;
   padding: 5%;
+  color: #DCDCDC;
 }
 footer li:last-child {
   border: none;
 }
 footer li a {
-  text-decoration: none;
-  color: white;
+  color: #DCDCDC;
 }
 footer li a:hover {
+  text-decoration: underline;
   font-weight: 500;
 }
