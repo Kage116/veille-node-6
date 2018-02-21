@@ -1,7 +1,6 @@
 header {
   padding: 2%;
-  background-color: #11AAFF;
-  color: #333333;
+  background-color: darkred;
 }
 header nav a {
   text-decoration: none;
@@ -72,7 +71,6 @@ body table th a {
   color: #DCDCDC;
 }
 body table th a:hover {
-  text-decoration: underline;
   font-weight: 700;
 }
 body table #idDelete a {
@@ -117,9 +115,8 @@ footer li:last-child {
 }
 footer li a {
   text-decoration: none;
-  color: #DCDCDC;
+  color: white;
 }
 footer li a:hover {
-  text-decoration: underline;
-  font-weight: 700;
+  font-weight: 500;
 }
