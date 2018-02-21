@@ -114,7 +114,7 @@ footer li:last-child {
   border: none;
 }
 footer li a {
-  color: #DCDCDC;
+  color: white;
 }
 footer li a:hover {
   text-decoration: underline;
